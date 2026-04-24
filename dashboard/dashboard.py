@@ -201,4 +201,4 @@ ax[2].tick_params(axis='x', labelsize=35)
 
 st.pyplot(fig)
  
-st.caption('Copyright (c) 2026 All Rights Reserved [Devi Ema Dewiyanti](github)')
+st.caption('Copyright (c) 2026 All Rights Reserved [Devi Ema Dewiyanti](https://github.com/devyti/Dashboard-Cloud-Bike-Sharing)')
